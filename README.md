@@ -1,6 +1,6 @@
 # RT_Assessment
 
-This repository contains the code and documentation for my interview submission for the React Native Software Developer position at Red Thread Innovations.
+This repository contains the code for Keshopan Arunthavachelvan's interview submission for the React Native Software Developer position at Red Thread Innovations.
 
 **About the Project**
 
