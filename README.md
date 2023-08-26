@@ -12,9 +12,7 @@ The app requires an API token from TheMovieDB. Once you obtain your API token fr
 
 **To Obtain API Token (Steps provided by Red Thread Innovations)**
 
-To fetch popular movies, you will use the API from themoviedb.org.
-
-● If you don’t already have an account, you will need to create one in order to request an
+To fetch popular movies, you will use the API from themoviedb.org. If you don’t already have an account, you will need to create one in order to request an
 API Key.
 
 In your request for a key, state that your usage will be for educational/non-commercial
