@@ -21,3 +21,5 @@ In your request for a key, state that your usage will be for educational/non-com
 use. You will also need to provide some personal information to complete the request.
 
 Once you submit your request, you should receive your key via email shortly after.
+
+Note: Screenshots are available in the Screenshots folder for both iOS and Android devices.
