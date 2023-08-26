@@ -10,6 +10,8 @@ In this project, a mobile app is created for android and iOS to display the top 
 
 The app requires an API token from TheMovieDB. Once you obtain your API token from the platform, include this token on the variable assignment for **API_TOKEN** in the **assessment/constants/API.tsx** file. 
 
+Additionally, ensure you run _npm install_ in the root folder and _pod install_ in the iOS folder to install the necessary dependencies. 
+
 **To Obtain API Token _(Steps provided by Red Thread Innovations)_**
 
 To fetch popular movies, you will use the API from themoviedb.org. If you don’t already have an account, you will need to create one in order to request an
